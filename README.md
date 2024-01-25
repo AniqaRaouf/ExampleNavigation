@@ -2,7 +2,7 @@ Hello, this is example navigation with react native 0.72.6.
 
 *Packages used "@react-navigation/native": "^6.1.9", "@react-navigation/native-stack": "^6.9.17", "react-native-safe-area-context": "^4.8.2", "react-native-screens": "^3.29.0"
 
-Do let me know if you have any queries at sheikhaniqa143@gmail.com , Lets start building apps , Have fun ! :)
+Do let me know if you have any queries , Lets start building apps , Have fun ! :)
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
